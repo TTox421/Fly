@@ -9,7 +9,7 @@
 5. В файле server.toml, добавьте надпись "fly", в поле resources.
 
 ## Скриншоты примеры
-![Изображение 1](https://i.ibb.co/zVBFVyC8/image.png)
+![Изображение 1](https://ibb.co/W4XKK0Sw)
 ![Изображение 2](https://i.ibb.co/zVBFVyC8/image.png)
 ![Изображение 3](https://i.ibb.co/Nd68FLD8/image.png)
 ![Изображение 4](https://i.ibb.co/1Nc0prc/image.png)
