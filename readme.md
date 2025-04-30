@@ -8,8 +8,8 @@
 4. В уже существующий проект, или скачаный с сайта, переместите систему в папку resources.
 5. В файле server.toml, добавьте надпись "fly", в поле resources.
 
+## Скриншоты примеры
 [![Подробнее][1]][1]
-[1]: ## Скриншоты примеры
 [1]: ![](https://i.ibb.co/zVBFVyC8/image.png)
 [1]: ![](https://i.ibb.co/zVBFVyC8/image.png)
 [1]: ![](https://i.ibb.co/Nd68FLD8/image.png)
